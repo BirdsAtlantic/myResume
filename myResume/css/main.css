@@ -1,0 +1,234 @@
+.swiper-slide {
+  width: 100%;
+  height: 100%; }
+
+.headimg {
+  position: absolute;
+  top: 4%;
+  width: 50%; }
+
+.nameimg {
+  position: absolute;
+  top: 30%; }
+
+.mynimg {
+  position: absolute;
+  top: 40%; }
+
+.ageimg {
+  position: absolute;
+  top: 50%; }
+
+.myaimg {
+  position: absolute;
+  top: 60%; }
+
+.go {
+  position: absolute;
+  bottom: 0;
+  background: #01ABE6;
+  height: 20%;
+  width: 100%; }
+
+.go .pt {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 20%; }
+
+.go .pz {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 18%;
+  display: block; }
+
+.simg {
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  z-index: 5;
+  width: 34%; }
+
+.skimg {
+  position: absolute;
+  top: 5%;
+  right: 2%;
+  width: 85%; }
+
+.himg {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  width: 13%; }
+
+.cimg {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  width: 13%; }
+
+.aimg {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  width: 13%; }
+
+.jsimg {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  width: 13%; }
+
+.qimg {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  width: 26%; }
+
+.bimg {
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  width: 13%; }
+
+.nimg {
+  position: absolute;
+  top: 80%;
+  left: 10%;
+  width: 26%; }
+
+.hsimg {
+  position: absolute;
+  top: 22%;
+  left: 66%; }
+
+.csimg {
+  position: absolute;
+  top: 32%;
+  left: 66%; }
+
+.asimg {
+  position: absolute;
+  top: 42%;
+  left: 66%; }
+
+.jssimg {
+  position: absolute;
+  top: 52%;
+  left: 66%; }
+
+.qsimg {
+  position: absolute;
+  top: 62%;
+  left: 66%; }
+
+.bsimg {
+  position: absolute;
+  top: 72%;
+  left: 66%; }
+
+.nsimg {
+  position: absolute;
+  top: 82%;
+  left: 66%; }
+
+.go1 {
+  position: absolute;
+  bottom: 0;
+  background: #01ABE6;
+  height: 10%;
+  width: 100%; }
+
+.go1 .pt {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: -18%; }
+
+.go1 .pz {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  bottom: 41%;
+  display: block; }
+
+.mark {
+  position: absolute;
+  top: 19%;
+  right: 48%;
+  width: 50%; }
+
+.look {
+  position: absolute;
+  top: 30%;
+  right: 4%;
+  width: 47%; }
+
+#enter {
+  position: absolute;
+  bottom: 30%;
+  right: 30%; }
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: #3E3E40;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 50px;
+  font-size: 20px;
+  color: white; }
+
+.header_right {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100px; }
+
+#footer {
+  width: 100%;
+  background: #3E3E40;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  border-top: 1px solid grey;
+  color: #fff; }
+
+#footer ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center; }
+
+#footer ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  line-hight: 100%;
+  font-weight: bold; }
+
+#play {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  z-index: 5; }
